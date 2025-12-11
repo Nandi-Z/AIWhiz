@@ -1,0 +1,5 @@
+{
+  "name": "AIWhiz",
+  "description": "A polished, full-screen conversational interface inspired by Landbot, powered by Google's Gemini 2.5 Flash model for dynamic and intelligent interactions.",
+  "requestFramePermissions": []
+}
